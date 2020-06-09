@@ -1,0 +1,11 @@
+Questions:
+How do you display KL/Shannon divergence? Some sort of average, or every result individually?
+Why do different circuits with very similar Hilbert-Schmidt and Trace distances have very different KL Divergences?
+    Is there something obvious with the matrices?
+How much difference numerically do you need to move the KL divergence around?
+Can you predict divergence based on distance?
+
+Tasks:
+Data with many states for KL etc
+KL divergence may not be great with some types of gates; maybe use TVD?
+Matrix of top and bottom of KL columns
